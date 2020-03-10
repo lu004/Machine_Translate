@@ -1,10 +1,8 @@
 # Machine Translation
-Translating English to Japanese
+Translate English to Japanese
 
-### Input: 
-A English sentence
+- Input: English sentence
 
-### Output: 
-the translated Japanese sentence
+- Output: the translated Japanese sentence
 
-The model is a deep-learning-based model (encoder-decoder with attention)
+- Model: encoder-decoder with attention, a deep-learning-based model
